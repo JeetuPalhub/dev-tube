@@ -1,3 +1,1 @@
-# dev 
-
-This a backend project with javascript tech stack.
+backend project with javascript tech stack.
